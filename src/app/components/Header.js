@@ -8,7 +8,7 @@ const Header = () => {
     return (
         <header className="main_header">
             <div className="navbar_brand">
-              <Image src="/logo (1).png" alt="Logo" height={40} width={150}/>
+              <Image src="/MovieFlixLogo.png" style={{borderRadius:"7px"}} alt="Logo" height={40} width={150}/>
             </div>
             <Nav/> 
         </header>
