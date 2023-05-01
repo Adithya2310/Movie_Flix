@@ -1,5 +1,5 @@
 .footer {
-    background: #161617;
+    background: #fff;
     width: 100%;
     margin: 6rem auto 0 auto;
 }
@@ -28,7 +28,7 @@
 }
 
 .content .top .logo-details {
-    color: #fff;
+    color: #000;
     font-size: 30px;
 }
 
@@ -43,7 +43,7 @@
     border-radius: 50%;
     text-align: center;
     line-height: 40px;
-    color: #fff;
+    color: #000;
     font-size: 17px;
     text-decoration: none;
     transition: all 0.4s ease;
@@ -105,7 +105,7 @@
 }
 
 .content .link-boxes .box .link_name {
-    color: #fff;
+    color: #000;
     font-size: 18px;
     font-weight: 400;
     margin-bottom: 10px;
@@ -128,7 +128,7 @@
 }
 
 .content .link-boxes .box li a {
-    color: #fff;
+    color: #000;
     opacity: 0.8;
     transition: all 0.4s ease
 }
@@ -147,22 +147,22 @@
     width: calc(100% + 55px);
     outline: none;
     border: 2px solid #AFAFB6;
-    background: #161617;
+    background: #fff;
     border-radius: 4px;
     padding: 0 15px;
     font-size: 15px;
-    color: #fff;
+    color: #000;
     margin-top: 5px;
 }
 
 .link-boxes .input-box input::placeholder {
-    color: #AFAFB6;
+    color: #000;
     font-size: 16px;
 }
 
 .link-boxes .input-box input[type="button"] {
-    background: #fff;
-    color: #161617;
+    background: #000;
+    color: #fff;
     border: none;
     font-size: 18px;
     font-weight: 500;
@@ -172,13 +172,15 @@
     transition: all 0.4s ease;
 }
 
+
+
 .input-box input[type="button"]:hover {
     opacity: 1;
 }
 
 .footer .bottom-details {
     width: 100%;
-    background: #161617;
+    background: #fff;
 }
 
 .footer .bottom-details .bottom_text {
@@ -193,7 +195,7 @@
 .bottom-details .bottom_text a {
     font-size: 14px;
     font-weight: 300;
-    color: #fff;
+    color: #000;
     opacity: 0.8;
     text-decoration: none;
 }
