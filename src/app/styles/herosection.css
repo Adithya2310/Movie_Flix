@@ -86,6 +86,7 @@
 
 
     .hero_image{
+        width: 500px;
         justify-content: center;
         order: 0;
     }
@@ -94,10 +95,7 @@
         width: 40%;
     }
 
-    .custom-shape-divider svg {
-        width: calc(100% + 1.3px);
-        height: 268px;
-    }
+
 
 
 }

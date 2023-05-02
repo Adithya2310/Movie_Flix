@@ -60,7 +60,7 @@ const Footer = () => {
                 <ul className="box input-box">
                     <li className="link_name">Subscribe</li>
                     <li><input type="text" placeholder="Enter your Email" /></li>
-                    <li><input classname="subscribe_button" type="button" value="Subscribe" /></li>
+                    <li><input className="subscribe_button" type="button" value="Subscribe" /></li>
                 </ul>
             </div>
         </div>
